@@ -1,9 +1,5 @@
-University: Mumbai University
+Natural Language Processing practical exam programs for Computer Engineering (Semester 8), Mumbai University.
 
-Branch and Semester: Computer Engineering- Semester 8
-
-Subject: Natural Language Processing practical exam programs.
-
-Necessary libraries:
+<b>Necessary libraries</b>:
 
 1. nltk
